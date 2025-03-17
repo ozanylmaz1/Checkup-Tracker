@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "mobil",
+    "slug": "odev",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "31485d57-c545-4af0-9169-7f8f1927647b"
+      }
+    },
+    "owner": "ozann.yllmaz",
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
