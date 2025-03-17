@@ -82,7 +82,7 @@ export const styles = StyleSheet.create({
         alignItems: 'center',
         backgroundColor: 'white',
         width: '70%',
-        height: '5%',
+        height: '5.5%',
     },
     sec: {
         backgroundColor: '#eee',
