@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "mobil",
+    "name": "checkuptracker",
     "slug": "odev",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -10,18 +10,20 @@
       "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
+
     },
     "ios": {
       "supportsTablet": true
     },
     "android": {
+
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/icon.png"
     },
     "extra": {
       "eas": {
