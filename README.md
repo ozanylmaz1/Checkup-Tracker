@@ -1,4 +1,4 @@
-Checkup-Tracker Beta: Reçete, randevu, hastalık vs. bilgilerini görüntülemeyi sağlayan mobil sağlık uygulaması. (proje test aşamasında.)
+Checkup-Tracker Beta: Reçete, randevu, hastalık vs. bilgilerini görüntülemeyi sağlayan mobil sağlık uygulaması. (proje test aşamasında.)<br>
 Teknolojiler: React Native
 ![Screenshot_1748630323](https://github.com/user-attachments/assets/30fcd2f2-9c6b-4ddb-bf7f-e05eacc77cdf)
 ![Screenshot_1748630260](https://github.com/user-attachments/assets/53c63a41-1f07-4169-bf16-62205f32e298)
