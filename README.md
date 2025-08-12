@@ -1,10 +1,10 @@
-Checkup-Tracker: kullanıcıların sağlık verilerini merkezi bir şekilde görüntüleyebileceği ve acil durumlarda hızlı erişim sağlayabileceği bir mobil sağlık uygulamasıdır. Uygulama şu anda test aşamasındadır.
-<br><br>
-🔍 Özellikler<br>
-	•	🗓️ Randevu ve Reçete Bilgileri: Mevcut ve geçmiş randevu detaylarını, doktor bilgilerini ve reçete geçmişini görüntüleme.<br>
-	•	🧬 Kişisel Sağlık Verileri: Yaş, kilo, boy, kan grubu gibi temel sağlık bilgilerini saklama.<br>
-	•	🚨 Acil Durum Kimliği: Acil durumlar için hızlı erişilebilen bir tıbbi kimlik oluşturma.<br>
-	•	🩺 Hastalık Takibi: Önceden teşhis edilmiş hastalık bilgilerine kolay erişim.<br>
+<strong>Checkup-Tracker</strong><br />
+
+kullanıcıların sağlık verilerini merkezi bir şekilde görüntüleyebileceği ve acil durumlarda hızlı erişim sağlayabileceği bir mobil sağlık uygulamasıdır. Checkup-Tracker, randevularınız, kullandığınız ilaçlar ve alerjileriniz gibi önemli bilgileri tek bir yerde(İsteğiniz doğrultusunda) güvenle saklar.
+
+Yapay zeka entegrasyonu sayesinde, bu verileri analiz ederek gelecekte karşılaşabileceğiniz potansiyel sağlık risklerini belirler. Dahası, kan değerleriniz gibi verilerinizi de değerlendirerek vücudunuzun ihtiyaç duyduğu besinleri ve vitaminleri belirler, böylece size özel beslenme önerileri sunar. Bu sayede sağlığınızı proaktif bir şekilde korumanıza yardımcı olur.
+
+🧬 Kişisel Sağlık Verileri: Yaş, kilo, boy, kan grubu gibi temel sağlık bilgilerini saklama.<br>
 <br><br>
 ⚙️ Geliştirme Durumu<br>
 Bu proje şu anda beta/test aşamasındadır. Geri bildirimler doğrultusunda düzenlemeler ve geliştirmeler yapılmaktadır.
@@ -12,6 +12,8 @@ Bu proje şu anda beta/test aşamasındadır. Geri bildirimler doğrultusunda d�
 📦 Teknolojiler<br>
 	•	React Native <br>
     •   Expo <br>
+    •   Firebase <br>
+	
 ![Screenshot_1748630214](https://github.com/user-attachments/assets/4af7966f-e7d0-42f5-a3a4-aaee0582157d)
 ![Screenshot_1748630227](https://github.com/user-attachments/assets/a9e45204-a18e-4074-8952-cffb268c639e)
 ![Screenshot_1748630323](https://github.com/user-attachments/assets/30fcd2f2-9c6b-4ddb-bf7f-e05eacc77cdf)
