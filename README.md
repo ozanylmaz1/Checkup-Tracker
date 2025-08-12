@@ -1,5 +1,6 @@
 <strong>Checkup-Tracker</strong><br />
-
+	
+<img width="1200" height="628" alt="checkup" src="https://github.com/user-attachments/assets/05b2a064-305b-49a4-9370-e5066c1ec30b" />
 kullanıcıların sağlık verilerini merkezi bir şekilde görüntüleyebileceği ve acil durumlarda hızlı erişim sağlayabileceği bir mobil sağlık uygulamasıdır. Checkup-Tracker, randevularınız, kullandığınız ilaçlar ve alerjileriniz gibi önemli bilgileri tek bir yerde(İsteğiniz doğrultusunda) güvenle saklar.
 
 Yapay zeka entegrasyonu sayesinde, bu verileri analiz ederek gelecekte karşılaşabileceğiniz potansiyel sağlık risklerini belirler. Dahası, kan değerleriniz gibi verilerinizi de değerlendirerek vücudunuzun ihtiyaç duyduğu besinleri ve vitaminleri belirler, böylece size özel beslenme önerileri sunar. Bu sayede sağlığınızı proaktif bir şekilde korumanıza yardımcı olur.
