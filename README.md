@@ -5,7 +5,7 @@ kullanıcıların sağlık verilerini merkezi bir şekilde görüntüleyebilece�
 Yapay zeka entegrasyonu sayesinde, bu verileri analiz ederek gelecekte karşılaşabileceğiniz potansiyel sağlık risklerini belirler. Dahası, kan değerleriniz gibi verilerinizi de değerlendirerek vücudunuzun ihtiyaç duyduğu besinleri ve vitaminleri belirler, böylece size özel beslenme önerileri sunar. Bu sayede sağlığınızı proaktif bir şekilde korumanıza yardımcı olur.
 
 🧬 Kişisel Sağlık Verileri: Yaş, kilo, boy, kan grubu gibi temel sağlık bilgilerini saklama.<br>
-<br><br>
+<br>
 ⚙️ Geliştirme Durumu<br>
 Bu proje şu anda beta/test aşamasındadır. Geri bildirimler doğrultusunda düzenlemeler ve geliştirmeler yapılmaktadır.
 <br><br>
