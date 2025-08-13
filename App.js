@@ -13,12 +13,12 @@ import { getAuth, signInWithEmailAndPassword, createUserWithEmailAndPassword } f
 
 // Firebase config
 const firebaseConfig = {
-    apiKey: "AIzaSyCSqiIUb5fvmiQZlBl-vOmBgeXKTvMH22k",
-    authDomain: "singin-259b9.firebaseapp.com",
-    projectId: "singin-259b9",
-    storageBucket: "singin-259b9.firebasestorage.app",
-    messagingSenderId: "879632803042",
-    appId: "1:879632803042:web:e05eae6ae208f265166abb"
+    apiKey: "xxxx",
+    authDomain: "xxxx",
+    projectId: "xxxx",
+    storageBucket: "xxxx",
+    messagingSenderId: "xxxx",
+    appId: "xxxx"
 };
 
 // Initialize Firebase
@@ -54,7 +54,7 @@ function Signin({ navigation, setname }) {
 
     const handleSignIn = () => {
         if (!email || !password) {
-            Alert.alert("Hata", "Lütfen email ve şifre girin.");
+            Alert.alert("Hata", "LÃ¼tfen email ve Ã¾ifre girin.");
             return;
         }
 
@@ -68,7 +68,7 @@ function Signin({ navigation, setname }) {
             })
             .catch((error) => {
                 setLoading(false);
-                Alert.alert("Giriş başarısız", error.message);
+                Alert.alert("GiriÃ¾ baÃ¾arÃ½sÃ½z", error.message);
             });
     };
 
