@@ -17,9 +17,9 @@ Bu proje şu anda beta/test aşamasındadır. Geri bildirimler doğrultusunda d�
 
 İletişim
 
-Geliştirici: Ozan Yılmaz
-E-posta: ozany1542@gmail.com
-linkedin: in/ozan-yilmaz-338b802a8
+Geliştirici: Ozan Yılmaz <br>
+E-posta: ozany1542@gmail.com <br>
+linkedin: in/ozan-yilmaz-338b802a8 
 
 © 2025	
 
