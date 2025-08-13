@@ -14,11 +14,20 @@ Bu proje şu anda beta/test aşamasındadır. Geri bildirimler doğrultusunda d�
 	•	React Native <br>
     •   Expo <br>
     •   Firebase <br>
-	
-![Screenshot_1748630214](https://github.com/user-attachments/assets/4af7966f-e7d0-42f5-a3a4-aaee0582157d)
-![Screenshot_1748630227](https://github.com/user-attachments/assets/a9e45204-a18e-4074-8952-cffb268c639e)
-![Screenshot_1748630323](https://github.com/user-attachments/assets/30fcd2f2-9c6b-4ddb-bf7f-e05eacc77cdf)
-![Screenshot_1748630260](https://github.com/user-attachments/assets/53c63a41-1f07-4169-bf16-62205f32e298)
-![Screenshot_1748630254](https://github.com/user-attachments/assets/8cde55ca-5b3e-4791-8fbc-aebdb5b2a2bc)
+
+İletişim
+
+Geliştirici: Ozan Yılmaz
+E-posta: ozany1542@gmail.com
+linkedin: in/ozan-yilmaz-338b802a8
+
+© 2025	
+
+![14d3be64-9d63-448a-8cd0-de8323cd75cd](https://github.com/user-attachments/assets/35229d21-61b0-4830-83a3-9959c234e3bf)
+![3df2c5fa-e51e-440c-9576-8b4995aed252](https://github.com/user-attachments/assets/aca693ef-a7ce-4dda-9f72-607ab34dbea5)
+![f0680aed-6ff2-4c53-a77e-303ccabaa987](https://github.com/user-attachments/assets/d4589087-a922-4c82-a18f-6fc065f9bb3f)
+![0f40e990-1ca2-4146-b92f-fcdf5f8b9226](https://github.com/user-attachments/assets/0b8b3304-18c0-42a4-8b6c-a50d10a0c50b)
+![0b8f78a2-eec5-4975-938e-d2d0f84b3dca](https://github.com/user-attachments/assets/7ce8216f-9d34-4b55-bc20-a1463d2507ac)
+![79a4d8a2-b97f-4362-b234-a3044c3df1a1](https://github.com/user-attachments/assets/d6f75202-3df7-43c6-9282-8601c611f3ce)
 
 
