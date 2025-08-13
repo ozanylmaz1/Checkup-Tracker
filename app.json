@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "checkuptracker",
+    "slug": "checkup-tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "Chackup.Tracker",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "Chackup.Tracker"
+    },
+    "web": {
+      "favicon": "./assets/icon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8bdf4b95-662f-433e-b5ca-4277a0b36315"
+      }
+    },
+    "owner": "ozann.yllmaz",
+    "plugins": [
+      "expo-font"
+    ],
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/8bdf4b95-662f-433e-b5ca-4277a0b36315"
+    }
+  }
+}
