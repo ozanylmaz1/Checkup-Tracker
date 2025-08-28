@@ -1,5 +1,5 @@
-<strong>Checkup-Tracker</strong><br />
-	
+# Checkup-Tracker
+<br />	
 <img width="1200" height="628" alt="checkup" src="https://github.com/user-attachments/assets/05b2a064-305b-49a4-9370-e5066c1ec30b" />
 kullanıcıların sağlık verilerini merkezi bir şekilde görüntüleyebileceği ve acil durumlarda hızlı erişim sağlayabileceği bir mobil sağlık uygulamasıdır. Checkup-Tracker, randevularınız, kullandığınız ilaçlar ve alerjileriniz gibi önemli bilgileri tek bir yerde(İsteğiniz doğrultusunda) güvenle saklar.
 
